@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                
+                "/home/pratiksha/ros2_ws/install/leg_detector_msgs/include",
+                "/home/pratiksha/ros2_ws/ros2_leg_detector/src/leg_detector/include/leg_detector",
+                "/home/pratiksha/ros2_ws/ros2_leg_detector/install/leg_detector_msgs/include/leg_detector_msgs/msg",
+                "/home/pratiksha/ros2_ws/opencv_source/opencv/include/opencv",
+                "/opt/ros/foxy/include",
+                "/opt/ros/foxy/include"
+                
+
+
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
